@@ -5,7 +5,7 @@
  </head> 
  <body align="center" background="Animo.jpg"> 
   <br> 
-  <img src="Hello.jpg" width="950" height="250" align="center"> 
+  <img src="Hello.jpg" width="1000" height="250" align="center"> 
   <br> 
   <br> 
   <br> 
