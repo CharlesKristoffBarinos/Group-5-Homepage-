@@ -11,7 +11,7 @@
   <br> 
   <br> 
   <center> 
-   <table width="1000" height="50" border="1" bordercolor="black"> 
+   <table width="1000" height="50" border="5" bordercolor="black"> 
     <tbody> 
      <tr> 
       <th background="MATH9.jpg"> <font size="40">Math <br><br> Subject Teacher <br><img src="Janelle.jpg" width="250" height="250"><br>Miss. Janelle Javellana <br> <a href="MATH.html">Math </a></font></th> 
@@ -19,14 +19,14 @@
      </tr> 
      <tr> 
       <th background="Cae.jpg"><font size="40">CAE <br> <br>Subject Teacher <br><img src="SirV.jpg" width="250" height="250"><br>Mr. Ariel Villaceran <br> <a href="CAE.html">CAE</a> </font></th> 
-      <th background="TLE9.jpg"><font size="40"> TLE <br><br> Subject Teacher <br><img src="Mae.jpg" width="250" height="250"><br>Miss. Mae Carmelle Bancolo <br><a href="TLE.html">Rubrics</a></font> </th> 
+      <th background="9Ctle.jpg"><font size="40"> TLE <br><br> Subject Teacher <br><img src="Mae.jpg" width="250" height="250"><br>Miss. Mae Carmelle Bancolo <br><a href="TLE.html">Rubrics</a></font> </th> 
      </tr> 
     </tbody> 
    </table> 
    <br> 
    <br> 
    <br> 
-   <table width="550" height="100" border="5" bordercolor="red" bgcolor="#89dd98"> 
+   <table width="550" height="100" border="5" bordercolor="black" bgcolor="white"> 
     <tbody> 
      <tr> 
       <th>Group Members</th> 
