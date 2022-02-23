@@ -13,7 +13,7 @@
    <table width="1000" height="50" border="1" bordercolor="black"> 
     <tbody> 
      <tr> 
-      <th background="MATHBACKGROUND.png"> <font size="40">Math <br><br> Subject Teacher <br><img src="Janelle.jpg" width="250" height="250"><br>Miss. Janelle Javellana <br> <a href="FramesMath.html">Math </a></font></th> 
+      <th background="MATHBACKGROUND.png"> <font size="40">Math <br><br> Subject Teacher <br><img src="Janelle.jpg" width="250" height="250"><br>Miss. Janelle Javellana <br> <a href="index2.php">Math </a></font></th> 
       <th background="CLEBACKGROUND.png"><font size="40">CLE <br><br> Subject Teacher <br><img src="Lili.jpg" width="250" height="250"><br> Miss. Liliveth Gustilo <br> <a href="CLE.html">CLE</a></font></th> 
      </tr> 
      <tr> 
