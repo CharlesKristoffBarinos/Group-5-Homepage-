@@ -4,8 +4,8 @@
 </head> 
 
 <framesset rows="85%,15%"> 
-<frame src="index3.php">
-<frame src="index4.php">
+<frame src="MathPT.html">
+<frame src="RubinMath.html">
 </framesset> 
 
 </html>
