@@ -14,7 +14,7 @@
     <tbody> 
      <tr> 
       <th background="MATHBACKGROUND.png"> <font size="40">Math <br><br> Subject Teacher <br><img src="Janelle.jpg" width="250" height="250"><br>Miss. Janelle Javellana <br> <a href="MathPT.html">Math </a></font></th> 
-      <th background="CLEBACKGROUND.png"><font size="40">CLE <br><br> Subject Teacher <br><img src="Lili.jpg" width="250" height="250"><br> Miss. Liliveth Gustilo <br> <a href="CLE.html">CLE</a></font></th> 
+      <th background="CLEBACKGROUND.png"><font size="40">CLE <br><br> Subject Teacher <br><img src="Lili.jpg" width="250" height="250"><br> Miss. Liliveth Gustilo <br> <a href="CLEPT.html">CLE</a></font></th> 
      </tr> 
      <tr> 
       <th background="CAEBACKGROUND.png"><font size="40">CAE <br> <br>Subject Teacher <br><img src="SirV.jpg" width="250" height="250"><br>Mr. Ariel Villaceran <br> <a href="CAE.html">CAE</a> </font></th> 
