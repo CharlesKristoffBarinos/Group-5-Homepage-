@@ -18,7 +18,7 @@
      </tr> 
      <tr> 
       <th background="CAEBACKGROUND.png"><font size="40">CAE <br> <br>Subject Teacher <br><img src="SirV.jpg" width="250" height="250"><br>Mr. Ariel Villaceran <br> <a href="CAE.html">CAE</a> </font></th> 
-      <th background="TLEBACKGROUND.png"><font size="40"> TLE <br><br> Subject Teacher <br><img src="Mae.jpg" width="250" height="250"><br>Miss. Mae Carmelle Bancolo <br><a href="TLE.html">Rubrics</a></font> </th> 
+      <th background="TLEBACKGROUND.png"><font size="40"> TLE <br><br> Subject Teacher <br><img src="Mae.jpg" width="250" height="250"><br>Miss. Mae Carmelle Bancolo <br><a href="TLErubrics.html">Rubrics</a></font> </th> 
      </tr> 
     </tbody> 
    </table> 
