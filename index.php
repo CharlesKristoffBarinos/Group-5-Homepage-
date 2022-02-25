@@ -35,7 +35,8 @@
      </tr> 
     </tbody> 
    </table> 
-  <a style="color:white" style="size=20" href="https://www.google.com"> EXIT
+  <font size="20">
+<a style="color:white" href="https://www.google.com"> EXIT
 </center> 
  </body>
 </html>
